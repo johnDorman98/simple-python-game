@@ -1,7 +1,7 @@
 # Welcome to my simple python game 👋
 
  This program is for displaying my progress with learning python, Being able to use the logic I have learned and implement it in a new way uisng Pygame in the form of
- a simple game.
+ a simple game. It is a basic game that reads the uers inputs and moves the players image accordingly the player much dodge enemies and reach the prize. 
  
 ## Features
  
