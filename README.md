@@ -41,9 +41,10 @@
 
  * To begin using the program firstly download it and save it somewhere you can find it afterwards.
  * Once it has been downloaded and you have confirmed that python is installed correctly you can then follow the next steps.
+   * If you have saved the file as a .zip be sure to extract it first then follow the next steps.
    * Search for IDLE on your computer and open it.
    * Once its open click on file then open.
-   * Navigate to where you saved the program and open it.
+   * Navigate to where you saved the program then click on and open the file named my_game.py.
    * The program should now open, In order to use it click on run then run module.
    * You should now be able to use the program.
 
@@ -55,7 +56,6 @@ Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for mor
 
 🖥️ **John Dorman**
 
-* Twitter: [@johndorman98](https://twitter.com/johndorman98)
 * Github: [@johnDorman98](https://github.com/johnDorman98)
 
 ## Show your support
