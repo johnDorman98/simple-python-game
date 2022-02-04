@@ -15,12 +15,17 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 
 # This create the player and enemy's using images found inside the same folder.
 player = pygame.image.load('player.jpg')
+player = pygame.transform.scale(player, (100, 100))
 
 enemy1 = pygame.image.load('monster.jpg')
 enemy2 = pygame.image.load('monster.jpg')
 enemy3 = pygame.image.load('monster.jpg')
+enemy1 = pygame.transform.scale(enemy1, (100, 100))
+enemy2 = pygame.transform.scale(enemy2, (100, 100))
+enemy3 = pygame.transform.scale(enemy3, (100, 100))
 
 prize = pygame.image.load('prize.jpg')
+prize = pygame.transform.scale(prize, (100, 100))
 
 # Gets the width and height of the images for the player and enemies
 # in order to do boundary detection.
