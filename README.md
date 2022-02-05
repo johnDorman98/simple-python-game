@@ -5,8 +5,8 @@
  
 ## Features
  
- * The game will popup on the users screen it reads the users arrow key inputs and moves the player accordingly.
- * The game has a prize that allows the user to win if they touch it aswell as enemies for the user to avoid.
+ * The game will pop up on the users screen it reads the users arrow key inputs and moves the player accordingly.
+ * The game has a prize that allows the user to win if they touch it as well as enemies for the user to avoid.
 
 ## Installation
 
